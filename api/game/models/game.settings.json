@@ -86,6 +86,10 @@
       "collection": "platform",
       "via": "games",
       "dominant": true
+    },
+    "publisher": {
+      "model": "publisher",
+      "via": "games"
     }
   }
 }
